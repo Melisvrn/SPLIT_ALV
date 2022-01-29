@@ -1,5 +1,5 @@
 # SPLIT_ALV
-Gerekli veriler ilgili tablolardan çekilerek `CUSTOM CONTAINER` içerisinde ekrana yansıtılmıştır. Bu veriler içerisinden herhangi bir veriye çift tıklanarak veri `SPLIT ALV` içerisine aktarılacaktır. Uygulama çubuğu içerisinde kaydet  butonu oluşturulmuştur.Bu butona basılarak split alv'ye transfer edilen veri kod içerisinde belirtilen ZMV_SPLIT tablosuna kaydolacaktır. 
+Gerekli veriler ilgili tablolardan çekilerek `CUSTOM CONTAINER` içerisinde ekrana yansıtılmıştır. Bu veriler içerisinden herhangi bir veriye çift tıklanarak veri `SPLIT ALV` içerisine aktarılacaktır. Uygulama çubuğu içerisinde kaydet  butonu oluşturulmuştur.Bu butona basılarak split alvye transfer edilen veri kod içerisinde belirtilen ZMV_SPLIT tablosuna kaydolacaktır. 
 SE16 işlem kodu ile verilerin tabloya doğru bir şekilde yerleştirilip yerleştirilmediği kontrol edilebilmektedir.
 
 :point_right: **Satın alma belgesi ve şirket kodunun sorgulatıldığı ekran:**
