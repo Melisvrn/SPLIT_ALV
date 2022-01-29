@@ -1,4 +1,4 @@
-# SPLIT_ALV
+# SPLIT_ALV YARATMA
 Gerekli veriler ilgili tablolardan çekilerek `CUSTOM CONTAINER` içerisinde ekrana yansıtılmıştır. Bu veriler içerisinden herhangi bir veriye çift tıklanarak veri `SPLIT ALV` içerisine aktarılacaktır. Uygulama çubuğu içerisinde kaydet  butonu oluşturulmuştur.Bu butona basılarak split alvye transfer edilen veri kod içerisinde belirtilen ZMV_SPLIT tablosuna kaydolacaktır. 
 SE16 işlem kodu ile verilerin tabloya doğru bir şekilde yerleştirilip yerleştirilmediği kontrol edilebilmektedir.
 
